@@ -1,0 +1,1 @@
+//next class start objects for the alumni. if the randomizing is too hard/timeconsuming then just choose a couple alumni and don't include the rest (no randomizing)

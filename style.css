@@ -1,5 +1,4 @@
 .navbar{
-   
     background-color:rgb(240, 240, 240);
     margin-left:0px;
     margin-right:0px;
@@ -16,6 +15,7 @@ body{
 .container{
     background-color: #FFCC00;
     margin-top:30px;
+    margin-bottom:30px;
     
 }
 
@@ -27,3 +27,20 @@ body{
     align-items:center;
 }
 
+h1{
+    
+}
+
+#helmet{
+    margin-top:40px;
+    margin-bottom:20px;
+    width:150px;
+    align-items:center;
+}
+
+#traveler{
+    margin-top:40px;
+    margin-bottom:20px;
+    width:150px;
+    align-items:center;
+}
