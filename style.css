@@ -44,3 +44,10 @@ h1{
     width:150px;
     align-items:center;
 }
+
+.contact{
+    background-color:rgb(240, 240, 240);
+    margin-left:0px;
+    margin-right:0px;
+    margin-bottom:0px;
+}
