@@ -55,3 +55,8 @@ h1{
 #checkOut{
     margin-bottom:30px;
 }
+
+.card{
+    border-width:2px;
+    border-color:black;
+}
